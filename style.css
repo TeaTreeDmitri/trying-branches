@@ -1,3 +1,12 @@
-body {
-    background-color: antiquewhite;
+* {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: arial, Helvetica, sans-serif;
+    color:cadetblue;
+    font-size:11vw;
+    line-height: 79%;
 }
